@@ -1,1 +1,3 @@
 Mon 1er fichier texte
+——————————————
+Ajout de texte au 2e fichier
